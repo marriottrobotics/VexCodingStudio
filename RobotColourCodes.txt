@@ -1,0 +1,12 @@
+PreAuton / Auton
+Red: We are on the red alliance apparently.
+Blue: We think we might be on the blue alliance.
+
+Driver
+Purple: Wheels to 100%.
+Black: Wheels to 75%.
+Cyan: Wheels to 33.333333333333333333333333%.
+Green: Brakes off, movement enabled.
+Red: Brakes on, movement disabled.
+White: Catipult fired.
+Orange: Catipult failed, watchdog activated.
